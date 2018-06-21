@@ -9,15 +9,10 @@ A PHP CLI tool to check if mobile phone numbers are from the UK and valid. Uses 
   
 
 | Option | Description | Required |
-
 |----------------|---------------------------------------|-----------------------------|
-
 |`--user` | the username for hlr-lookups.com | True |
-
 |`--pass` | the password for hlr-lookups.com | True |
-
 |`--file` | the input file of phone numbers | True |
-
 |`--output` | the output file of results (csv) | False |
 
   
