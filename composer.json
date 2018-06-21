@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vmgltd/hlr-lookup-api-php-sdk": "^0.0.14",
+        "league/climate": "^3.4"
+    }
+}
